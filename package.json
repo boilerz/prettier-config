@@ -1,0 +1,10 @@
+{
+  "name": "@boilerz/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config.",
+  "main": "prettier.config.js",
+  "repository": "git@github.com:boilerz/prettier-config.git",
+  "author": "momsse",
+  "license": "MIT",
+  "private": false
+}
