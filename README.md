@@ -1,6 +1,6 @@
 # @boilerz/prettier-config
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/prettier-config)](https://www.npmjs.com/package/@boilerz/prettier-config)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/prettier-config)](https://www.npmjs.com/package/@boilerz/prettier-config) [![Greenkeeper badge](https://badges.greenkeeper.io/boilerz/prettier-config.svg)](https://greenkeeper.io/)
 
 > Prettier Config.
 
