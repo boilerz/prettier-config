@@ -1,6 +1,6 @@
 {
   "name": "@boilerz/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config.",
   "main": "prettier.config.js",
   "repository": "git@github.com:boilerz/prettier-config.git",
