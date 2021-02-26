@@ -9,5 +9,8 @@
   "private": false,
   "scripts": {
     "test": "exit 0"
+  },
+  "devDependencies": {
+    "@boilerz/jest-config": "^1.0.5"
   }
 }
